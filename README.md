@@ -1,28 +1,36 @@
+# Hi 👋
 
-Howdy, Fellow Code Adventurer! 👋
-Welcome to  ✨ I'm IAN MAINA, a CS undergrad at the University of Nairobi, on a quest to unravel the mysteries of code and conquer the realms of technology.
+Welcome to my GitHub realm! I'm **IAN MAINA**, a CS undergrad at the University of Nairobi, embarking on a quest to decode the enigma of code and conquer the vast landscapes of technology.
 
-##About Me
-🎓 Currently leveling up my wizardry at the University of Nairobi.
-💬 Excellent communicator; I speak fluent human and geek.
-💻 Advanced spellcaster in React JS, Python, Flask, and JS.
-🚀 Exploring the galaxies of Machine Learning and AI with PyTorch and TensorFlow.
-🌌 Dabbling in the mystical arts of 3D Animation with MATLAB and Blender.
+## About Me
 
-    
-Tech Arsenal
-🚀 React JS
-🐍 Python 
-🌐 Flask
-🤖 PyTorch and TensorFlow - 
-🎨 MATLAB and Blender
-Currently Brewing in My Cauldron
-📚 Learning the ancient art of Machine Learning and AI spells.
-🎥 Creating 3D animations that make reality jealous.
+- 🎓 Currently completing my undergraduate in Computer Science at the University of Nairobi.
+- 💬 A bilingual communicator - fluent in both human and geek 
+- 💻 Master in React JS, Python, Flask, and JS.
+- 🚀 Currently learning Visual Basic,Laravel, C#, FLutter, Machine Learning and AI with PyTorch and TensorFlow.
+- 🌌 Dabbling in 3D Animation Blender and Data Science using Python, MATLAB & Simulink.
 
-Let's Connect!
-Feel free to strike up a conversation, as me anything share your feedback on any of my projects.
+## Tech Arsenal
 
+- 🚀 React JS
+- 🐍 Python, C++
+- 🌐 Flask, PHP, Django
+- 🤖 PyTorch and TensorFlow 
+- 🎨 MATLAB and Blender 
 
-May your code compile on the first try
+## Currently Brewing in My Cauldron
+
+- 📚  Machine Learning and AI spells.
+- 🎥 Creating 3D animations and VR and AR
+
+## Let's Connect!
+
+Feel free to strike up a conversation, ask me anything, or share your thoughts on any of my projects.
+
+```python
+while not sleeping():
+    connect_with_me("www.linkedin.com/in/muiruri-maina-0a8182290")
+```
+
+May your code compile flawlessly on the first try🙏
 🦄 Happy coding! 🚀✨
