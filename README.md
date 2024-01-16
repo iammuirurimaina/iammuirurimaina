@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**iammuirurimaina/iammuirurimaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Howdy, Fellow Code Adventurer! 👋
+Welcome to  ✨ I'm IAN MAINA, a CS undergrad at the University of Nairobi, on a quest to unravel the mysteries of code and conquer the realms of technology.
 
-Here are some ideas to get you started:
+##About Me
+🎓 Currently leveling up my wizardry at the University of Nairobi.
+💬 Excellent communicator; I speak fluent human and geek.
+💻 Advanced spellcaster in React JS, Python, Flask, and JS.
+🚀 Exploring the galaxies of Machine Learning and AI with PyTorch and TensorFlow.
+🌌 Dabbling in the mystical arts of 3D Animation with MATLAB and Blender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+Tech Arsenal
+🚀 React JS
+🐍 Python 
+🌐 Flask
+🤖 PyTorch and TensorFlow - 
+🎨 MATLAB and Blender
+Currently Brewing in My Cauldron
+📚 Learning the ancient art of Machine Learning and AI spells.
+🎥 Creating 3D animations that make reality jealous.
+
+Let's Connect!
+Feel free to strike up a conversation, as me anything share your feedback on any of my projects.
+
+
+May your code compile on the first try
+🦄 Happy coding! 🚀✨
