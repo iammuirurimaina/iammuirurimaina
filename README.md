@@ -1,27 +1,22 @@
-# Hi 👋
-
-Welcome to my GitHub realm! I'm **IAN MAINA**, a CS undergrad at the University of Nairobi, embarking on a quest to decode the enigma of code and conquer the vast landscapes of technology.
-
+# Hi 👋 I'm **IAN MAINA**, a Software Developer, Gamer and future Cloud Engineer
 ## About Me
 
-- 🎓 Currently completing my undergraduate in Computer Science at the University of Nairobi.
-- 💬 A bilingual communicator - fluent in both human and geek 
-- 💻 Master in React JS, Python, Flask, and JS.
-- 🚀 Currently learning Visual Basic,Laravel, C#, FLutter, Machine Learning and AI with PyTorch and TensorFlow.
-- 🌌 Dabbling in 3D Animation Blender and Data Science using Python, MATLAB & Simulink.
+- 🎓 BSC Comp Sience UoN, Moringa School.
+- 💻 Master in React C++, JS, Python, Flask, and JS.
+- 🚀 Currently learning Mobile Development, Cybersecurity, Cloud Computing and UI/UX design
+- 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development, 
 
 ## Tech Arsenal
 
-- 🚀 React JS
-- 🐍 Python, C++
-- 🌐 Flask, PHP, Django
+- 🚀 React JS, TypeScript
+- 🐍 Python, C++, Kotlin
+- 🌐 Flask, PHP, Django, Laravel
 - 🤖 PyTorch and TensorFlow 
-- 🎨 MATLAB and Blender 
 
-## Currently Brewing in My Cauldron
+## Currently 
 
-- 📚  Machine Learning and AI spells.
-- 🎥 Creating 3D animations and VR and AR
+- 📚  Attachee at .
+- 🎥 Freelancing
 
 ## Let's Connect!
 
@@ -32,5 +27,3 @@ while not sleeping():
     connect_with_me("www.linkedin.com/in/muiruri-maina-0a8182290")
 ```
 
-May your code compile flawlessly on the first try🙏
-🦄 Happy coding! 🚀✨
