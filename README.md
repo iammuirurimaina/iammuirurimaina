@@ -21,9 +21,6 @@
 ## Let's Connect!
 
 Feel free to strike up a conversation, ask me anything, or share your thoughts on any of my projects.
+www.linkedin.com/in/muiruri-maina-0a8182290
 
-```python
-while not sleeping():
-    connect_with_me("www.linkedin.com/in/muiruri-maina-0a8182290")
-```
 
