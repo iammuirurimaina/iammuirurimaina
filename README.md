@@ -15,7 +15,7 @@
 
 ## Currently 
 
-- 📚  Attachee at .
+- 📚  Intern at SwiftCoins
 - 🎥 Freelancing
 
 ## Let's Connect!
