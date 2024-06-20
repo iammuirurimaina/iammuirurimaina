@@ -2,9 +2,9 @@
 ## About Me
 
 - 🎓 BSC Comp Sience UoN, Moringa School.
-- 💻 Master in React C++, JS, Python, Flask, and JS.
-- 🚀 Currently learning Mobile Development, Cybersecurity, Cloud Computing and UI/UX design
-- 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development, 
+- 💻 Master in React JS, Python, Flask.
+- 🚀 Currently learning Mobile Development with Kotlin and Flutter, Cybersecurity, Cloud Computing and UI/UX design
+- 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
 
 ## Tech Arsenal
 
@@ -14,7 +14,6 @@
 - 🤖 PyTorch and TensorFlow 
 
 ## Currently 
-
 - 📚  Intern at SwiftCoins
 - 🎥 Freelancing
 
