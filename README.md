@@ -9,9 +9,10 @@
 ## Tech Arsenal
 
 - 🚀 React JS, TypeScript
-- 🐍 Python, C++, Kotlin
-- 🌐 Flask, PHP, Django, Laravel
-- 🤖 PyTorch and TensorFlow 
+- 🐍 Python, JS, C++, PHP
+- 🌐 React Js, Next JS, Flask, Django, Laravel
+- 📱 Kotlin, Flutter
+- 🤖 OpenCv, PyTorch and TensorFlow 
 
 ## Currently 
 - 📚  Intern at SwiftCoins
