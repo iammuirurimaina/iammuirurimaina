@@ -1,4 +1,4 @@
-# Hi 👋 I'm **IAN MAINA**, a Software Developer, Gamer and future Cloud Engineer
+# Hi 👋 I'm **IAN MAINA**, a Web and Mobile Developer, Gamer and future Cloud Engineer
 ## About Me
 
 - 🎓 BSC Comp Sience UoN, Moringa School.
