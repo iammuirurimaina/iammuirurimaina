@@ -14,7 +14,7 @@
 - 🤖 PyTorch and TensorFlow 
 
 ## Currently 
-
+- 📱Learning Dart and Flutter
 - 📚  Intern at SwiftCoins
 - 🎥 Freelancing
 
