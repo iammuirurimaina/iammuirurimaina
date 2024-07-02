@@ -1,15 +1,15 @@
 # Hi 👋 I'm **IAN MAINA**, a Web and Mobile Developer, Gamer and future Cloud Engineer
 ## About Me
 
-- 🎓 BSC Comp Sience UoN, Moringa School.
+- 🎓 BSC Computer Science UoN, Moringa School.
 - 💻 Master in React JS, Python, Flask.
-- 🚀 Currently learning Mobile Development with Kotlin and Flutter, Cybersecurity, Cloud Computing and UI/UX design
+- 🚀 Currently learning UI/UX design, Mobile Development with Kotlin and Flutter, Cybersecurity and Cloud Computing.
 - 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
 
 ## Tech Arsenal
 
 - 🚀 React JS, TypeScript
-- 🐍 Python, JS, C++, PHP
+- 🐍 Python, JS, C++, PHP, Dart
 - 🌐 React Js, Next JS, Flask, Django, Laravel
 - 📱 Kotlin, Flutter
 - 🤖 OpenCv, PyTorch and TensorFlow 
