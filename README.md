@@ -6,7 +6,7 @@
 - 🚀 Currently learning UI/UX design, Mobile Development with Kotlin and Flutter, Cybersecurity and Cloud Computing.
 - 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
 
-## Tech Arsenal
+## Tech Stack
 
 - 🚀 React JS, TypeScript
 - 🐍 Python, JS, C++, PHP, Dart
