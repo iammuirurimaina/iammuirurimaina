@@ -15,7 +15,7 @@
 - 🤖 OpenCv, PyTorch and TensorFlow 
 
 ## Currently 
-- 📚  Intern at SwiftCoins
+- 📚  Lead Mobile developer at SwiftCoins
 - 🎥 Freelancing
 
 ## Let's Connect!
