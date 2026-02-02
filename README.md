@@ -1,21 +1,21 @@
-# Hi 👋 I'm **IAN MAINA**, a UI/UX designer, Web and Mobile Developer and Gamer
+# Hi I'm **IAN MAINA**, a Software Engineer
 ## About Me
 
-- 🎓 BSC Computer Science UoN, Moringa School.
-- 💻 Master in React JS, Python, Flask.
-- 🚀 Currently learning UI/UX design, Mobile Development with Kotlin and Flutter, Cybersecurity and Cloud Computing.
-- 🌌 Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
+-  BSC Computer Science UoN, Moringa School.
+- Master in React JS, Python, Flask.
+-  Currently learning UI/UX design, Mobile Development with Kotlin and Flutter, Cybersecurity and Cloud Computing.
+- Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
 
 ## Tech Stack
 
-- 🚀 React JS, TypeScript
-- 🐍 Python, JS, C++, PHP, Dart
-- 🌐 React Js, Next JS, Flask, Django, Laravel
-- 📱 Kotlin, Flutter
-- 🤖 OpenCv, PyTorch and TensorFlow 
+- React JS, TypeScript
+- Python, JS, C++, PHP, Dart
+- React Js, Next JS, Flask, Django, Laravel
+- Kotlin, Flutter
+- OpenCv, PyTorch and TensorFlow 
 
 ## Currently 
-- 📚  Lead Mobile developer at SwiftCoins
+- Software Developer
 - 🎥 Freelancing
 
 ## Let's Connect!
