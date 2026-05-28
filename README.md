@@ -2,20 +2,20 @@
 ## About Me
 
 -  BSC Computer Science UoN, Moringa School.
-- Master in React JS, Python, Flask.
+- Master in React JS, Python, Flask, PHP.
 -  Currently learning UI/UX design, Mobile Development with Kotlin and Flutter, Cybersecurity and Cloud Computing.
 - Dabbling in Business and Data analytics, 3D Animation, AI/Machine learning Development
 
 ## Tech Stack
 
-- React JS, TypeScript
+- Javascript, Dart, C++, .NET
 - Python, JS, C++, PHP, Dart
 - React Js, Next JS, Flask, Django, Laravel
 - Kotlin, Flutter
 - OpenCv, PyTorch and TensorFlow 
 
 ## Currently 
-- Software Developer
+- Software Developer at Softclans Technologies Limited
 - 🎥 Freelancing
 
 ## Let's Connect!
